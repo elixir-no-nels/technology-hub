@@ -2,7 +2,7 @@
 # Technology hub wiki
 
 ## [Principles & methods](https://github.com/elixir-no-nels/technology-hub/wiki/Principles-&-methods)
- - Modern software team organization
+ - [Modern software team organization](https://github.com/elixir-no-nels/technology-hub/wiki/Modern-software-team-organization)
  - Sustainable software development
  - Clean code
  - Continuous integration and delivery
