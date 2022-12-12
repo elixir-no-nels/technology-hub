@@ -1,7 +1,7 @@
 
 # Technology hub wiki
 
-## Principles & methods
+## [Principles & methods](https://github.com/elixir-no-nels/technology-hub/wiki/Principles-&-methods)
  - Modern software team organization
  - Sustainable software development
  - Clean code
