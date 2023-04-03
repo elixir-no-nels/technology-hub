@@ -5,6 +5,7 @@
 ############################
 # --- Required options --- #
 ############################
+theme: minima
 
 # Name of website
 title: Technology Hub Wiki
