@@ -7,7 +7,7 @@ This is the wiki pages for the developers/postdocs, Elixir3 personnel working ac
 
 As a knowledge base, these pages serve as a reference of the important principles, methods and examples for the development process as well as best practices of how to apply this knowledge in daily tasks.
 
-## [Principles & methods](https://github.com/elixir-no-nels/technology-hub/wiki/Principles-&-methods)
+## [Principles & methods](./Principles-&-methods.html)
 - [Modern software team organization](https://github.com/elixir-no-nels/technology-hub/wiki/Modern-software-team-organization)
 - Sustainable software development
 - Clean code
