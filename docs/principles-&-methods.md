@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-## [Modern software team organization](./docs/modern-software-team-organization.html)
+## [Modern software team organization](./modern-software-team-organization.html)
 One of the core elements of the project development process is the team organization. 
 
 In this section you can find information about most common software team organization practices.
 
-## [Sustainable software development](./docs/sustainable-software-development.html)
+## [Sustainable software development](./sustainable-software-development.html)
 
 ## [Clean code](https://github.com/elixir-no-nels/technology-hub/wiki/Clean-code)
 

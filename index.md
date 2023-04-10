@@ -9,7 +9,7 @@ As a knowledge base, these pages serve as a reference of the important principle
 
 ## [Principles & methods](./docs/principles-&-methods.html)
 - [Modern software team organization](./docs//modern-software-team-organization.html)
-- Sustainable software development()
+- [Sustainable software development](./docs/sustainable-software-development.html)
 - Clean code
 - Continuous integration and delivery
     - Principles
