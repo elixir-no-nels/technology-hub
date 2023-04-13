@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 ---
+
 The structure of the development team depends on multiple factors such as the goal and complexity of the software product/solution, developed by the team, available time for the project and the budget.
 
 If we forget about business analytics which are usually the part of the development teams in companies, then we can say that the typical software development teams consist of product owner, project manager, software architect and several engineers including developers and DevOps engineers.
