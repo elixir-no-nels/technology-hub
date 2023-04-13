@@ -8,12 +8,11 @@ In this section you can find information about most common software team organiz
 
 ## [Sustainable software development](./sustainable-software-development.html)
 
-## [Clean code](https://github.com/elixir-no-nels/technology-hub/wiki/Clean-code)
+## [Clean code](./clean-code.html)
 
-## [Continuous integration and delivery](https://github.com/elixir-no-nels/technology-hub/wiki/Continuous-integration-and-delivery)
+## [Continuous integration and delivery](./continuous-integration-and-delivery.html)
 
-## [Operations and security](https://github.com/elixir-no-nels/technology-hub/wiki/Operations-and-security)
+## [Operations and security](./operations-and-security.html)
 
-## [FAIR data and software practices](https://github.com/elixir-no-nels/technology-hub/wiki/FAIR-data-and-software-practices)
+## [FAIR data and software practices](./fair-data.html)
 
-## [4OSS](https://github.com/elixir-no-nels/technology-hub/wiki/4OSS)

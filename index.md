@@ -10,15 +10,13 @@ As a knowledge base, these pages serve as a reference of the important principle
 ## [Principles & methods](./docs/principles-&-methods.html)
 - [Modern software team organization](./docs//modern-software-team-organization.html)
 - [Sustainable software development](./docs/sustainable-software-development.html)
-- Clean code
-- Continuous integration and delivery
-    - Principles
-    - Tools
-- Operations and security
-- FAIR data and software practices
-- 4OSS
+- [Clean code](./docs/clean-code.html)
+- [Continuous integration and delivery](./docs/continuous-integration-and-delivery.html)
+- [Operations and security](./docs/operations-and-security.html)
+- [FAIR data and software practices](./docs/fair-data.html)
 
-## Hands on Technologies
+
+## [Hands on Technologies](./docs/hands-on.html)
 - Version control in development
 - Web applications and frameworks
 - ROI and RESTful API implementations
