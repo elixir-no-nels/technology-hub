@@ -13,6 +13,6 @@ There are several essential clean code principles:
 
 - [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance): Not an acronym, sadly. It's a principle where you design your types over what they do instead of over what they are. Composition is favored over inheritance by many developers, because inheritance forces you to build a taxonomy of objects early on in a project, making your code inflexible for changes later on.
 
-- Favor readability: It's not because a machine can read your code that another human can. Particularly when working with multiple people on a project, always favor readability over conciseness. There's no point in having concise code if people don't understand it.
+- [Favor readability](https://en.wikipedia.org/wiki/Computer_programming#Readability_of_source_code): It's not because a machine can read your code that another human can. Particularly when working with multiple people on a project, always favor readability over conciseness. There's no point in having concise code if people don't understand it.
 
 There is no universal ways to write clean code. And nobody's code is ever perfect. However, pratcice and frequent code reviewing can significantly improve your code's quality
